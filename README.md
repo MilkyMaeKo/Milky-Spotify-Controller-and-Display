@@ -31,14 +31,3 @@ Setup
   Flash to ESP32
   On first boot, connect to the SpotifyDesk WiFi hotspot and enter your home WiFi credentials
 
-Display Layout
-┌─                                               ─┐
-  NOW PLAYING                          VOL 72%
-  ─────────────────────────────────────────────
-  FahFahFah
-  FAAAAAAAAAH
-  1:47  [████████░░░░░░░░░░░]  4:56
-  ─────────────────────────────────────────────
-  NEXT: e er - MilkyMusic
-└─                                               ─┘
-Requires Spotify Premium
